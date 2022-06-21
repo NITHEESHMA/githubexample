@@ -1,0 +1,35 @@
+{
+    "user":[{
+        "name":"nidhi",
+        "age":28,
+        "is programer":true,
+        "skills":["html","css","javascript"],
+        "addres":{"city":"thrissur",
+            "state":"kerala"}
+        
+
+    },
+    {
+        "name":"vedha",
+        "age":2,
+        "is programer":false,
+        "skills":["html","css","javascript"],
+        "addres":{"city":"thrissur",
+            "state":"kerala"}
+        
+
+    },
+    {
+        "name":"vinu",
+        "age":34,
+        "is programer":true,
+        "skills":["html","css","javascript"],
+        "addres":{"city":"thrissur",
+            "state":"kerala"}
+        
+
+    }
+]
+
+
+}
